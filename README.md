@@ -33,6 +33,6 @@ When we analyze the users' willing, we use the amount as the target label and th
   The notebook is used to run code, which contains data wrangling, data exploration, and model build
   
 
-* [Starbucks_Capstone_notebook_report.md](./Starbucks_Capstone_notebook_report.md)
+* [Starbucks_Capstone_Project_Analysis](https://machinelearntolearn.home.blog/starbucks-capstone-challenge-udacity-dsnd-project/)
 
-  The final report file
+  The final report site
